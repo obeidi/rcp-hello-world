@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Rcp-eith-tycho
-Bundle-SymbolicName: rcp-eith-tycho;singleton:=true
+Bundle-SymbolicName: rcp-with-tycho;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: rcp_eith_tycho.Activator
 Require-Bundle: org.eclipse.core.runtime
