@@ -1,2 +1,2 @@
 # rcp-hello-world
-ein einfache RCP was durch Eclipse erzeugt wurde.
+A Simple RCP Hello World generated bei Eclipse 4.x
